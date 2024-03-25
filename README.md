@@ -2,10 +2,7 @@
 <h1 align="center">Anderon Freire Rezende</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-f-rezende/)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:skirtshot@gmail.com)
 [![Outlook Badge](https://img.shields.io/badge/Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)](mailto:andersonrezende17@hotmail.com)
-[![Facebook Badge](https://img.shields.io/badge/Facebook-0078D4?style=for-the-badge&logo=facebook&logoColor=white
-)](https://www.facebook.com/Anderson.Rezende.1995)
 <h3 align="center">I love programming</h3>
 
 <ul>
