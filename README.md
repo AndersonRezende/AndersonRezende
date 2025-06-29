@@ -8,7 +8,7 @@
 <ul>
   <li> 👋 Hi, I’m @AndersonRezende</li>
   <li> 👀 I’m interested in software or hardware projects</li>
-  <li> 💻 I’m currently working using PHP, API Rest</li>
+  <li> 💻 I’m currently working using PHP and API Rest</li>
   <li> 📧 Send me an email: andersonrezende17@hotmail.com</li>
   <li> 🖥️ Computer scientist</li>
   <li> ⚙ Software Engineer</li>
