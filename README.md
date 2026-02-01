@@ -59,8 +59,6 @@
 
 <p><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndersonRezende&show_icons=true&locale=en&layout=compact" alt="AndersonRezende" /></p>
 
-<p>&nbsp;<img align="center" width="52%" src="https://github-readme-stats.vercel.app/api?username=AndersonRezende&show_icons=true&locale=en" alt="AndersonRezende" /></p>
-
 <p><img style="margin-rigth:auto; margin-left:auto" src="https://github-readme-streak-stats.herokuapp.com/?user=AndersonRezende&" alt="AndersonRezende" /></p>
 
 
